@@ -40,7 +40,7 @@ Make sure the custom model file, best.pt, is in the same directory as the Python
 ▶️ Usage
 To run the rabbit detection script, execute the following command in your terminal from the project's root directory:
 
-python your_script_name.py
+py main.py
 
 A window titled "YOLOv8 Rabbit Detection" will open, showing your webcam feed.
 
