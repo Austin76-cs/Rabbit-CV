@@ -28,7 +28,7 @@ ultralytics
 ⚙️ Installation
 Clone the repository (or download the files):
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Austin76-cs/Rabbit-CV)
 cd your-repository-name
 
 Install the required libraries using pip:
