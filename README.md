@@ -28,10 +28,7 @@ ultralytics
 ⚙️ Installation
 Clone the repository (or download the files):
 
-git clone [[https://github.com/your-username/your-repository-name.git](https://github.com/Austin76-cs/Rabbit-CV)](https://github.com/Austin76-cs/Rabbit-CV.git)
-cd your-repository-name](https://github.com/Austin76-cs/Rabbit-CV.git)
-
-Install the required libraries using pip:
+git clone https://github.com/Austin76-cs/Rabbit-CV.git
 
 pip install opencv-python torch ultralytics
 
